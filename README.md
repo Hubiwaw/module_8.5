@@ -1,4 +1,4 @@
-# Project module 8.5(Triangle field)
+# Project module 8.5(Triangle area)
 - triangle area script
 
 lerem ipsum
